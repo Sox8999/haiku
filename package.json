@@ -1,0 +1,19 @@
+{
+  "name": "haiku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sox8999/haiku.git"
+  },
+  "author": "Sox8999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sox8999/haiku/issues"
+  },
+  "homepage": "https://github.com/Sox8999/haiku#readme"
+}
