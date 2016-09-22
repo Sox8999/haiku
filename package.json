@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Sox8999/haiku/issues"
   },
-  "homepage": "https://github.com/Sox8999/haiku#readme"
+  "homepage": "https://github.com/Sox8999/haiku#readme",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
 }
